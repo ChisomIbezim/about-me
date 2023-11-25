@@ -13,7 +13,7 @@ Relevant Modules: Research Methods in Economics, Econometrics, Operations Resear
 ---
 **Investment Analyst Trainee | RFA Capital Advisors Limited, Lagos**	               
 _September 2023 – Present_
--	Constructed and manages a portfolio of exchange traded funds that have gained 7% since November 3, 2023, which translates to a gain of over $3,000 for our client.
+-	Constructed and manages a portfolio of exchange traded funds that has gained 7% since November 3, 2023, which translates to a gain of over $3,000 for our client.
 -	Reduced time spent on analyzing financial data by 40% by automating the collection of financial data using Python.
 -	Creates and presents weekly reports to keep member of my team abreast of happenings in the global equities market.
 
