@@ -31,24 +31,32 @@ _August 2022 – October 2022_
 
 ### Projects
 ---
-- **[EDA Projects: An Analysis of Ford GoBike Trips](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Ford%20GoBike%20Analysis)**\
+**[EDA Projects: An Analysis of Ford GoBike Trips](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Ford%20GoBike%20Analysis)**\
 _August 2022_\
 Description:
 
--	**[EDA project: An Analysis of Dog Ratings (WRD)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/WeRateDogs%20Project)**\
+**[EDA project: An Analysis of Dog Ratings (WRD)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/WeRateDogs%20Project)**\
 _June 2022_\
 Description:
 
--	**[EDA project: The Movie Database Analysis (TMDb)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/TMDB%20Analysis)**\
+**[EDA project: The Movie Database Analysis (TMDb)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/TMDB%20Analysis)**\
 _May 2022_\
 Description:
 
--	**[SQL project: Analysis of International Debt Statistics](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Analyze%20International%20Debt%20Statistics)**\
+**[SQL project: Analysis of International Debt Statistics](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Analyze%20International%20Debt%20Statistics)**\
 _April 2022_\
 DEscription:
 
 ### Professional Certifications
 ---
-**[Google Advance Data Analytics Certification]()** | _November 2023_\
-**[Google Data Analytics Certification]()** | _October 2023_\
-**[Udacity Data Analyst Nanodegree]()** | _August 2022_
+**[Google Advance Data Analytics Certification](https://coursera.org/share/948d429b769651e8aa0dcd3ec9e7aeee)** | _November 2023_\
+**[Google Data Analytics Certification](https://coursera.org/share/f863162579f8debb15f17e539ab8463e)** | _October 2023_\
+**[Udacity Data Analyst Nanodegree](https://confirm.udacity.com/JKQF5GUS)** | _August 2022_
+
+---
+
+### Contact Me
+Address: Lagos, Nigeria\
+Phone: +234 704 380 8396\
+Email: ibezimchisom007@gmail.com\
+Social Media: [LinkedIn](https://www.linkedin.com/in/ibezimchisom/) • [Twitter](https://twitter.com/ibezim_chisom)
