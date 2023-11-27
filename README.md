@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Skills
+### Skills
 `Python`, `SQL`, `Excel`, `Power BI`
 
 ### Education
