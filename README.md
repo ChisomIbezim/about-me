@@ -5,7 +5,8 @@
 
 ### Education
 ---
-Economics, BSc\
+**B.Sc. Economics** | University of Nigeria, Nsukka\
+_Graduated August 2023_\
 Academic Standing: First Class (4.72/5.0 CGPA)\
 Relevant Modules: Research Methods in Economics, Econometrics, Operations Research, Business Finance, Macroeconomics, Microeconomics, Computing Applications for Economists, Calculus, Algebra, Statistics for Economists, Mathematics for Economists
 
@@ -30,15 +31,11 @@ _August 2022 – October 2022_
 -	Valued bonds and conducted regression analysis for investment decision making.
 
 ### Projects
----
-**[EDA Projects: An Analysis of Ford GoBike Trips](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Ford%20GoBike%20Analysis)**\
-_August 2022_\
-**[EDA project: An Analysis of Dog Ratings (WRD)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/WeRateDogs%20Project)**\
-_June 2022_\
-**[EDA project: The Movie Database Analysis (TMDb)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/TMDB%20Analysis)**\
-_May 2022_\
-**[SQL project: Analysis of International Debt Statistics](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Analyze%20International%20Debt%20Statistics)**\
-_April 2022_
+--- 
+**[EDA Projects: An Analysis of Ford GoBike Trips](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Ford%20GoBike%20Analysis)** | _August 2022_\
+**[EDA project: An Analysis of Dog Ratings (WRD)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/WeRateDogs%20Project)** | _June 2022_\
+**[EDA project: The Movie Database Analysis (TMDb)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/TMDB%20Analysis)** | _May 2022_\
+**[SQL project: Analysis of International Debt Statistics](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Analyze%20International%20Debt%20Statistics)** | _April 2022_
 
 ### Professional Certifications
 ---
