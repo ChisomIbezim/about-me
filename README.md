@@ -47,9 +47,9 @@ _August 2022 – October 2022_
 ### Professional Certifications
 ---
 
-**[Google Advance Data Analytics Certification](https://coursera.org/share/948d429b769651e8aa0dcd3ec9e7aeee)** | _November 2023_
-**[Google Data Analytics Certification](https://coursera.org/share/f863162579f8debb15f17e539ab8463e)** | _October 2023_
-**[Udacity Data Analyst Nanodegree](https://confirm.udacity.com/JKQF5GUS)** | _August 2022_
+-**[Google Advance Data Analytics Certification](https://coursera.org/share/948d429b769651e8aa0dcd3ec9e7aeee)** | _November 2023_
+-**[Google Data Analytics Certification](https://coursera.org/share/f863162579f8debb15f17e539ab8463e)** | _October 2023_
+-**[Udacity Data Analyst Nanodegree](https://confirm.udacity.com/JKQF5GUS)** | _August 2022_
 
 ---
 
