@@ -32,7 +32,6 @@ _August 2022 – October 2022_
 
 ### Exploratory Data Analysis Projects (Python & SQL)
 ---
-
 1. **[An Analysis of Ford GoBike Trips](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Ford%20GoBike%20Analysis)** | _August 2022_\
 2. **[An Analysis of Dog Ratings (WRD)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/WeRateDogs%20Project)** | _June 2022_\
 3. **[The Movie Database Analysis (TMDb)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/TMDB%20Analysis)** | _May 2022_\
@@ -40,9 +39,9 @@ _August 2022 – October 2022_
 
 ### Data Visualization Projects (Power BI)
 ---
-- 
--
--
+- The Lord is Good
+- Tuejhbf
+- All teh
 
 
 ### Professional Certifications
