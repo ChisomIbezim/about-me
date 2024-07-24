@@ -30,18 +30,22 @@ _August 2022 – October 2022_
 -	Collected and wrangled financial data using special data cleaning techniques in Python, increasing the quality of insights by 10%.
 -	Valued bonds and conducted regression analysis for investment decision making.
 
-### Projects
+### Exploratory Data Analysis Projects (Python & SQL)
 --- 
-**[EDA Projects: An Analysis of Ford GoBike Trips](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Ford%20GoBike%20Analysis)** | _August 2022_\
-**[EDA project: An Analysis of Dog Ratings (WRD)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/WeRateDogs%20Project)** | _June 2022_\
-**[EDA project: The Movie Database Analysis (TMDb)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/TMDB%20Analysis)** | _May 2022_\
-**[SQL project: Analysis of International Debt Statistics](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Analyze%20International%20Debt%20Statistics)** | _April 2022_
+- **[An Analysis of Ford GoBike Trips](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Ford%20GoBike%20Analysis)** | _August 2022_\
+- **[An Analysis of Dog Ratings (WRD)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/WeRateDogs%20Project)** | _June 2022_\
+- **[The Movie Database Analysis (TMDb)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/TMDB%20Analysis)** | _May 2022_\
+- **[SQL project: Analysis of International Debt Statistics](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Analyze%20International%20Debt%20Statistics)** | _April 2022_
+
+### Data Visualization Projects (Power BI)
+---
+
 
 ### Professional Certifications
 ---
-**[Google Advance Data Analytics Certification](https://coursera.org/share/948d429b769651e8aa0dcd3ec9e7aeee)** | _November 2023_\
-**[Google Data Analytics Certification](https://coursera.org/share/f863162579f8debb15f17e539ab8463e)** | _October 2023_\
-**[Udacity Data Analyst Nanodegree](https://confirm.udacity.com/JKQF5GUS)** | _August 2022_
+- **[Google Advance Data Analytics Certification](https://coursera.org/share/948d429b769651e8aa0dcd3ec9e7aeee)** | _November 2023_\
+- **[Google Data Analytics Certification](https://coursera.org/share/f863162579f8debb15f17e539ab8463e)** | _October 2023_\
+- **[Udacity Data Analyst Nanodegree](https://confirm.udacity.com/JKQF5GUS)** | _August 2022_
 
 ---
 
