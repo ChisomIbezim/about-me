@@ -6,8 +6,8 @@
 ### Education
 ---
 **B.Sc. Economics** | University of Nigeria, Nsukka\
-_Graduated August 2023_\
-Academic Standing: First Class (4.72/5.0 CGPA)\
+_Graduated July 2023_\
+Grade: First Class (4.72/5.0 CGPA)\
 Relevant Modules: Research Methods in Economics, Econometrics, Operations Research, Business Finance, Macroeconomics, Microeconomics, Computing Applications for Economists, Calculus, Algebra, Statistics for Economists, Mathematics for Economists
 
 ### Work Experience
