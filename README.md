@@ -32,16 +32,10 @@ _August 2022 – October 2022_
 
 ### Exploratory Data Analysis Projects (Python & SQL)
 ---
-**[An Analysis of Ford GoBike Trips](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Ford%20GoBike%20Analysis)** | _August 2022_\
-**[An Analysis of Dog Ratings (WRD)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/WeRateDogs%20Project)** | _June 2022_\
-**[The Movie Database Analysis (TMDb)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/TMDB%20Analysis)** | _May 2022_\
-**[SQL project: Analysis of International Debt Statistics](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Analyze%20International%20Debt%20Statistics)** | _April 2022_
-
-### Data Visualization Projects (Power BI)
----
-- The Lord is Good
-- Tuejhbf
-- All teh
+[An Analysis of Ford GoBike Trips](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Ford%20GoBike%20Analysis) | _August 2022_\
+[An Analysis of Dog Ratings (WRD)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/WeRateDogs%20Project) | _June 2022_\
+[The Movie Database Analysis (TMDb)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/TMDB%20Analysis) | _May 2022_\
+[SQL project: Analysis of International Debt Statistics](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Analyze%20International%20Debt%20Statistics) | _April 2022_
 
 ### Professional Certifications
 ---
