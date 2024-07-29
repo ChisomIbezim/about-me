@@ -1,7 +1,7 @@
 # Data Analyst
 
 ### Skills
-`Python`, `SQL`, `Excel`, `Power BI`
+`Python`, `PostgreSQL`, `Excel`, `Power BI`
 
 ### Education
 ---
@@ -36,6 +36,12 @@ _August 2022 – October 2022_
 [An Analysis of Dog Ratings (WRD)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/WeRateDogs%20Project) | _June 2022_\
 [The Movie Database Analysis (TMDb)](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/TMDB%20Analysis) | _May 2022_\
 [SQL project: Analysis of International Debt Statistics](https://github.com/ChisomIbezim/My-Portfolio/tree/main/Data%20Analysis%20Projects/Analyze%20International%20Debt%20Statistics) | _April 2022_
+
+### Data Visualization Projects (Power BI)
+---
+[Logistics Dashboard](https://app.powerbi.com/links/Isj3gQKee6?ctid=39c68ff1-a810-4cda-ab2f-5218156b5f4d&pbi_source=linkShare) | _July 2024_\
+[Reviving the Africa's Health Sector](https://app.powerbi.com/links/wv8gwpQ2he?ctid=39c68ff1-a810-4cda-ab2f-5218156b5f4d&pbi_source=linkShare&bookmarkGuid=85db7dc2-8f01-4183-81c3-d14fe10e3e87) | _December 2022_\
+[Educational Facilities in Nigeria](https://app.powerbi.com/links/YATLlAb_w_?ctid=39c68ff1-a810-4cda-ab2f-5218156b5f4d&pbi_source=linkShare&bookmarkGuid=34527992-42f4-43d4-aae2-5d0b6ee92f5b) | _May 2022_
 
 ### Professional Certifications
 ---
